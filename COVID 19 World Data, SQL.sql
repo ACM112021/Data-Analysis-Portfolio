@@ -159,3 +159,4 @@ where dea.continent is not null
 
 select *
 from PercentPopulationVaccinated
+ 
